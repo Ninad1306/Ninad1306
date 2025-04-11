@@ -10,7 +10,7 @@ And as for infrastructure orchestration, I'm also proficient in Ansible. From au
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,vscode,git,github,ansible,html,css,java,c,mysql,mongodb,nodejs,react,jquery,flask,postman,&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,js,vscode,git,github,ansible,html,css,java,c,mysql,mongodb,nodejs,react,jquery,flask,postman,docker,&perline=9" />
   </a>
 </p>
 
