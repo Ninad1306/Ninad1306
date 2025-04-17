@@ -1,7 +1,11 @@
-# 💫 About Me:
-Hey there! I'm Ninad, a dynamic software developer fluent in Python and JavaScript. Whether I'm diving into backend development with Python's robust libraries or crafting engaging user experiences with JavaScript frameworks like React, I thrive on bringing ideas to life. With a knack for problem-solving and a passion for clean, efficient code, I've contributed to diverse projects that leverage the power of both languages.
+# 💻 About Me:
+Hey there! I'm Ninad, a software developer with a focus on Python and JavaScript. I enjoy working on both backend systems and frontend interfaces, and I aim to write clean, efficient, and maintainable code.
 
-And as for infrastructure orchestration, I'm also proficient in Ansible. From automating deployment processes to managing complex IT environments, I've utilized Ansible to streamline operations and enhance efficiency. Let's connect and explore the possibilities of what we can achieve together! 🚀
+I contribute to open-source projects like [**India Compliance**](https://github.com/resilient-tech/india-compliance), [**ERPNext**](https://github.com/frappe/erpnext), and [**Frappe**](https://github.com/frappe/frappe), mainly helping businesses customize their ERP workflows. 
+
+I'm also interested in applying Artificial Intelligence to practical problems, especially in ways that can benefit society.
+
+Feel free to explore my work or connect if you're interested in collaborating.
 
 
 ## 🌐 Socials:
